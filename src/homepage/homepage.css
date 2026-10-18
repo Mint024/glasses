@@ -1,0 +1,21 @@
+.selectors {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    background-color: cadetblue;
+    box-sizing: border-box;
+}
+
+.slctheading {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
